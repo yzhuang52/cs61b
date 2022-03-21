@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da9a051f-224c-4580-982c-2153496b3f27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cs61b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cs61b.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discussion/discussion01/Fib.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homework1/BreakContinue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/out/production/homework/BreakContinue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab1/HelloNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab1/HelloNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab1/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab1/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cs61b/discussion01/Fib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework/BreakContinue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/homework/homework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skeleton-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/GuitarHeroLite.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/GuitarPlayer.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/TTFAF.java" beforeDir="false" />
@@ -365,7 +353,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
