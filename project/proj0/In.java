@@ -381,7 +381,7 @@ public final class In {
 
    /**
      * Reads all doubles from a file
-     * @deprecated Clearer to use 
+     * @deprecated Clearer to use
      * <tt>new In(filename)</tt>.{@link #readAllDoubles()}
      */
     public static double[] readDoubles(String filename) {

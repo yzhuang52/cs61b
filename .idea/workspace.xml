@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da9a051f-224c-4580-982c-2153496b3f27" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj0/NBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/BasicInDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/BasicInDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/In.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/InDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/InDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdDraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdDraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdDrawDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdDrawDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/GuitarHeroLite.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/GuitarPlayer.java" beforeDir="false" />
@@ -365,9 +374,67 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/skeleton-sp19/library-sp19/javalib/xchart-3.5.1.jar" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="BasicInDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.BasicInDemo" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicInDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicInDemo" />
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StdDrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.StdDrawDemo" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NBody" />
+        <item itemvalue="Application.StdDrawDemo" />
+        <item itemvalue="Application.BasicInDemo (1)" />
+        <item itemvalue="Application.BasicInDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
