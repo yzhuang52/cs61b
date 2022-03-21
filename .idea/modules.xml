@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/skeleton-sp19/clab/clab.iml" filepath="$PROJECT_DIR$/skeleton-sp19/clab/clab.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/cs61b.iml" filepath="$PROJECT_DIR$/.idea/cs61b.iml" />
       <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
       <module fileurl="file://$PROJECT_DIR$/lab/lab.iml" filepath="$PROJECT_DIR$/lab/lab.iml" />
-      <module fileurl="file://$PROJECT_DIR$/discussion/discussion.iml" filepath="$PROJECT_DIR$/discussion/discussion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skeleton-sp19/skeleton-sp19.iml" filepath="$PROJECT_DIR$/skeleton-sp19/skeleton-sp19.iml" />
     </modules>
   </component>
 </project>
