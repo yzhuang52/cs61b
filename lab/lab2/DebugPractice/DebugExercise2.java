@@ -10,10 +10,10 @@ public class DebugExercise2 {
         int w = (b - a) >> 31;
         /* If you're stepping into this function, click the
            step out button because you're not going to learn anything. */
-        int z = ~(b - a) >> 31;
-
-        int max = b & w | a & z;
-        return max;
+        if(a>b){
+            return a;
+        }
+        return b;
     }
 
 

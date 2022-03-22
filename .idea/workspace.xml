@@ -4,6 +4,8 @@
     <list default="true" id="da9a051f-224c-4580-982c-2153496b3f27" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/project/proj0/NBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab2/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab2/DebugPractice/DebugExercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab2/Intlist/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab2/Intlist/IntList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/In.java" afterDir="false" />
@@ -362,7 +364,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -380,29 +382,23 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/skeleton-sp19/library-sp19/javalib/xchart-3.5.1.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/skeleton-sp19/library-sp19/javalib/proj2c/websocket-servlet-9.4.15.v20190215.jar" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.NBody">
-    <configuration name="BasicInDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.BasicInDemo" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="JUnit.IntListTest.testCatenate">
+    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+      <module name="lab2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicInDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicInDemo" />
-      <module name="project" />
+    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
+      <module name="lab2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -414,25 +410,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StdDrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.StdDrawDemo" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="IntListTest.testCatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testCatenate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntListTest.testDcatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IntListTest" />
+      <option name="METHOD_NAME" value="testDcatenate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IntListTest.testCatenate" />
+        <item itemvalue="JUnit.IntListTest.testDcatenate" />
+        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.DebugExercise1" />
         <item itemvalue="Application.NBody" />
-        <item itemvalue="Application.StdDrawDemo" />
-        <item itemvalue="Application.BasicInDemo (1)" />
-        <item itemvalue="Application.BasicInDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -457,5 +461,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/lab2/DebugPractice/DebugExercise2.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
