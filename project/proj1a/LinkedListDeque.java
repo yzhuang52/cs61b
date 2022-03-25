@@ -40,7 +40,7 @@ public class LinkedListDeque<type>{
         LinkedListDeque returnLink = new LinkedListDeque();
         Node p = other.sentinel.next;
         while(p!=null){
-            returnLink.addLast(p.value);
+            returnLink.addLast((type) p.value);
             p = p.next;
         }
 

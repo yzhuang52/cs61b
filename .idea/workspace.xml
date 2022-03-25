@@ -3,32 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="da9a051f-224c-4580-982c-2153496b3f27" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/project/proj0/NBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj1a/ArrayDeque.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/proj1a/LinkedListDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/LinkedListDequeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/LinkedListDequeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/NBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/NBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/Core/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/Core/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/Core/RandomUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/InputDemo/DemoInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/InputDemo/InputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/InputDemo/KeyboardInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/InputDemo/RandomInputSource.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/InputDemo/StringInputDevice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/SaveDemo/Editor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/SaveDemo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/SaveDemo/Shepherd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/SaveDemo/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/SaveDemo/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/TileEngine/TERenderer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/TileEngine/TETile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/TileEngine/Tileset.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab12/BoringWorldDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab12/HexWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab12/RandomWorldDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab12/project3prep.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab13/MemoryGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/byow/lab13/MemoryGameSolution.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/In.java" afterDir="false" />
@@ -40,6 +17,28 @@
       <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/RandomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/InputDemo/DemoInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/InputDemo/InputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/InputDemo/RandomInputSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/InputDemo/StringInputDevice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/SaveDemo/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/SaveDemo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/SaveDemo/Shepherd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/SaveDemo/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/SaveDemo/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/TileEngine/TERenderer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/TileEngine/TETile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/TileEngine/Tileset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab12/BoringWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab12/HexWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab12/RandomWorldDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab12/project3prep.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab13/MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj3/byow/lab13/MemoryGameSolution.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/project/project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/skeleton-sp19" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skeleton-sp19/hw1/GuitarHeroLite.java" beforeDir="false" />
