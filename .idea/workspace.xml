@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da9a051f-224c-4580-982c-2153496b3f27" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab/lab3/Flik/FlikTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab3/IntList/IntList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/proj0/NBody.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/proj1a/ArrayDeque.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/project/proj1a/LinkedListDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj1b/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj1b/OffByN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj1b/OffByOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/proj1b/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab3/Flik/Flik.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab3/Flik/Flik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/lab3/IntList/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab3/IntList/IntListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.class" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/Body.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/Body.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/In.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/In.java" afterDir="false" />
@@ -17,6 +25,9 @@
       <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj0/examples/StdRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj1a/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj1a/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj1b/PalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj1b/PalindromeFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj1b/TestOffByOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj1b/TestOffByOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/proj1b/TestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/project/proj1b/TestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/Engine.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/proj3/byow/Core/RandomUtils.java" beforeDir="false" />
@@ -389,6 +400,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -411,43 +430,54 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.LinkedListDequeTest">
-    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
-      <module name="lab2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListDeque" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PalindromeFinder">
+    <configuration name="PalindromeFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeFinder" />
       <module name="project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedListDequeTest" />
-      <module name="project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntListTest.testCatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lab2" />
+    <configuration name="FlikTest.testFilk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IntListTest" />
-      <option name="METHOD_NAME" value="testCatenate" />
+      <option name="MAIN_CLASS_NAME" value="FlikTest" />
+      <option name="METHOD_NAME" value="testFilk" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntListTest.testDcatenate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lab2" />
+    <configuration name="TestOffByOne.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="IntListTest" />
-      <option name="METHOD_NAME" value="testDcatenate" />
+      <option name="MAIN_CLASS_NAME" value="TestOffByOne" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testIsPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testIsPalindrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPalindrome.testWordToDeque" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPalindrome" />
+      <option name="METHOD_NAME" value="testWordToDeque" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -455,11 +485,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedListDequeTest" />
-        <item itemvalue="Application.LinkedListDeque" />
-        <item itemvalue="JUnit.IntListTest.testCatenate" />
-        <item itemvalue="JUnit.IntListTest.testDcatenate" />
-        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.PalindromeFinder" />
+        <item itemvalue="JUnit.TestOffByOne.test" />
+        <item itemvalue="JUnit.TestPalindrome.testIsPalindrome" />
+        <item itemvalue="JUnit.TestPalindrome.testWordToDeque" />
+        <item itemvalue="JUnit.FlikTest.testFilk" />
       </list>
     </recent_temporary>
   </component>
@@ -493,11 +523,20 @@
           <line>49</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==127" language="JAVA" />
+          <url>file://$PROJECT_DIR$/lab/lab3/Flik/HorribleSteve.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="7" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cs61b$ArithmeticTest.ic" NAME="ArithmeticTest Coverage Results" MODIFIED="1648265862739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
